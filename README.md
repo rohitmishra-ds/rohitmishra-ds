@@ -1,4 +1,4 @@
-<h1 align="center">Rohit Kumar Mishra</h1>
+<h1 align="center">Rohitkumar Mishra</h1>
 <h3 align="center">Data Science Student | Aspiring Data Analyst</h3>
 <p align="center">📍 Surat, Gujarat, India</p>
 
